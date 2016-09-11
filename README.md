@@ -19,6 +19,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Code::blocks](codeblocks)
 
 ###Git
+sudo apt-get install git
 
 ###code::blocks
 sudo apt-get install codeblocks
