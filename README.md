@@ -16,9 +16,14 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Index
 * [Git](Git)
-* 
+* [Code::blocks](code::blocks)
 
 ###Git
+
+###code::blocks
+sudo apt-get install codeblocks
+
+
 
 
 
