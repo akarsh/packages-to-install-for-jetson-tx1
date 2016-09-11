@@ -1,1 +1,24 @@
-# required-packages-to-install-for-jetson-tx1
+# packages-to-install-for-jetson-tx1
+
+##Intro
+After buying the Jetson TX1, i had searched a lot of tutorials.  But no one has a list of packages that you can install on Jetson successfully.  Hence, i propose a list that contains the sudo apt-get commands to let other users also install all the packages that can reduce the back & forth of searching about the packages.
+
+### How To Contribute
+
+Please read [CONTRIBUTING](/CONTRIBUTING.md).
+
+### How to Share
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/akarsh/GIS-Geographic-Information-Systems-Mobile-Applications-list)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/akarsh/GIS-Geographic-Information-Systems-Mobile-Applications-list)
++ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/akarsh/GIS-Geographic-Information-Systems-Mobile-Applications-list)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/akarsh/GIS-Geographic-Information-Systems-Mobile-Applications-list)
+
+### Index
+* [Git](Git)
+* 
+
+###Git
+
+
+
+
