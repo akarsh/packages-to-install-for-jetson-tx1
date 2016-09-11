@@ -16,7 +16,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Index
 * [Git](Git)
-* [Code::blocks](code::blocks)
+* [Code::blocks](codeblocks)
 
 ###Git
 
