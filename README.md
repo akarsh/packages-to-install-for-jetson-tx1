@@ -15,14 +15,14 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/akarsh/packages-to-install-for-jetson-tx1)
 
 ### Index
-* [Git](Git)
-* [Codeblocks](codeblocks)
-* [dillo](dillo)
+* [Git](#Git)
+* [Code::blocks](#codeblocks)
+* [dillo](#dillo)
 
 ###Git
 sudo apt-get install git
 
-###codeblocks
+###code::blocks
 sudo apt-get install codeblocks
 
 ###dillo
