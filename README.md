@@ -18,6 +18,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Git](#Git)
 * [Code::blocks](#codeblocks)
 * [dillo](#dillo)
+* [synaptic](#synaptic)
 
 ###Git
 sudo apt-get install git
@@ -28,3 +29,5 @@ sudo apt-get install codeblocks
 ###dillo
 sudo apt-get install dillo
 
+###synaptic
+sudo apt-get install synaptic
