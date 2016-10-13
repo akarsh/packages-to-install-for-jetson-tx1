@@ -38,5 +38,4 @@ sudo apt-get install synaptic
 sudo apt-add-repository ppa:midori/ppa && sudo apt-get update -qq && sudo apt-get install midori
 
 ###flux
-sudo add-apt-repository ppa:nathan-renniewaldock/flux
-sudo apt-get install fluxgui
+sudo add-apt-repository ppa:nathan-renniewaldock/flux && sudo apt-get update && sudo apt-get install fluxgui
