@@ -19,6 +19,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Code::blocks](#codeblocks)
 * [dillo](#dillo)
 * [synaptic](#synaptic)
+* [midori](#midori)
+* [flux](#flux)
 
 ###Git
 sudo apt-get install git
@@ -31,3 +33,9 @@ sudo apt-get install dillo
 
 ###synaptic
 sudo apt-get install synaptic
+
+###midori
+sudo apt-add-repository ppa:midori/ppa && sudo apt-get update -qq && sudo apt-get install midori
+
+###flux
+sudo add-apt-repository ppa:nathan-renniewaldock/flux
